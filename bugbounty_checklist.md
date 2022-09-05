@@ -25,7 +25,7 @@ Happy hunting !
 
 ## <a name="Recon_on_wildcard_domain">Recon on wildcard domain</a>  
 
-- [ x ] Run amass  
+- [x] Run amass  
 - [ ] Run subfinder  
 - [ ] Run assetfinder  
 - [ ] Run dnsgen  
